@@ -38,4 +38,4 @@ jobs:
       
       - name: Execute a Node command
         run: |
-          node -e "console.log('Hello from Node')
+          node -e "console.log('Hello from Node')"
